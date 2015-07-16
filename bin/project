@@ -3,3 +3,4 @@
 BINPATH=`dirname $0`
 python "$BINPATH/../project/main.py" $@
 # test comment to push some changes to a file
+#test comment2 to push some changes to a file
